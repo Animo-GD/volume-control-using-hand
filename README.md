@@ -1,5 +1,6 @@
 # Volume Controle
-Using hand landmarks to control the master volume of your pc
+Using `mediapipe` for Hand detection and tracking, `pycaw` to controle the PC volume, and OpenCV To draw visuals. 
+
 # How to use 
 - Requirements
   ```bash
