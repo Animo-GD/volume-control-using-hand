@@ -1,5 +1,5 @@
 # Volume Controle
-Using `mediapipe` for Hand detection and tracking, `pycaw` to controle the PC volume, and OpenCV To draw visuals. 
+Using `mediapipe` for Hand detection and tracking, `pycaw` to controle the PC volume, and `OpenCV` To draw visuals. 
 
 # How to use 
 - Requirements
